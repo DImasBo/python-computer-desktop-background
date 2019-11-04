@@ -3,6 +3,7 @@
 ідея така що є маленька картинка і так додати картинку на тло щоб не перекривалось іконками і ярликами.
 widnows
 ![Скріншот робочого столу](https://github.com/DImasBo/python-computer-desktop-background/blob/master/index.jpg)
+
 Linux
 ![Скріншот робочого столу](https://github.com/DImasBo/python-computer-desktop-background/blob/master/screen.png)
 Приклади є  в папці output
